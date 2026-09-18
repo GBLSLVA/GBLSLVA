@@ -1,53 +1,58 @@
 <div align="center">
 
 # Gabriel Silva
+### Desenvolvimento Full Stack · Projetos que conectam interface, API e dados
 
-### Desenvolvimento web · Foco em Full Stack
+React · TypeScript · Node.js · SQLite
 
-Construindo minha trajetória com código, prática e projetos.
-
-[Meu GitHub](https://github.com/GBLSLVA)
+[Conheça meu projeto principal](https://github.com/GBLSLVA/zeus-finance)
 
 </div>
 
----
-
 ## Sobre mim
 
-Sou Gabriel Silva, desenvolvedor em formação com foco em full stack. Minha base prática está em HTML e CSS, com projetos de interfaces desenvolvidos durante os estudos do Explorer, da Rocketseat.
+Sou Gabriel Silva, desenvolvedor em formação com foco em aplicações full stack. Minha trajetória começou com HTML e CSS nos estudos do Explorer, da Rocketseat, e hoje meu portfólio inclui uma aplicação com interface React, API Node.js e banco SQLite.
 
-Meu objetivo é evoluir para aplicações completas, conectando interfaces, lógica de negócio e dados. Busco oportunidades para crescer em equipe e projetos freelance compatíveis com minhas habilidades atuais.
+Busco oportunidades de início de carreira e projetos freelance compatíveis com minha experiência. Tenho interesse em interfaces responsivas, integração de APIs e organização do código com orientação a objetos.
 
-## Base técnica
+## Projeto principal — ZEUS Finance
 
-| Área | Aplicação nos projetos |
+**Aplicação de finanças pessoais para registrar gastos, acompanhar dívidas e organizar metas.**
+
+| O que o projeto demonstra | Implementação |
 | --- | --- |
-| HTML | Estrutura de páginas, conteúdo, imagens e links |
-| CSS | Estilização, tipografia, cores e composição visual |
-| GitHub | Organização e documentação de projetos |
+| Interface responsiva | React 18, TypeScript, HTML e CSS |
+| Backend orientado a objetos | Node.js, JavaScript ES Modules, serviços e repositórios |
+| Persistência | SQLite, SQL e consultas parametrizadas |
+| Autenticação | Cadastro, login, hash scrypt e sessões por cookie |
+| Isolamento de dados | Registros associados ao usuário autenticado |
+| Testes | Integração HTTP com SQLite temporário usando node:test |
+| Execução | Interface e API com `npm start` |
 
-## Projeto em destaque
+**Estado atual:** MVP executável localmente. O repositório inclui instalação, decisões de arquitetura, testes e limitações. A hospedagem pública desta versão full stack é uma próxima etapa.
 
-### ZEUS AGENT
+[Explorar código e documentação do ZEUS Finance →](https://github.com/GBLSLVA/zeus-finance)
 
-Proposta de atendimento empresarial com IA para WhatsApp e Instagram, com base de conhecimento, fluxos de agendamento e transferência humana.
+## Tecnologias e ferramentas aplicadas
 
-**Etapa atual:** estudo de caso e arquitetura proposta. O repositório documenta escopo, decisões técnicas, critérios de aceite e próximos passos; a aplicação ainda não foi implementada.
+- **Frontend:** React, React DOM, TypeScript, TSX, HTML5, CSS3, Grid, Flexbox e media queries.
+- **Backend:** Node.js 24, JavaScript, módulos ES, API HTTP e orientação a objetos.
+- **Dados e autenticação:** SQLite, SQL, node:sqlite, node:crypto, scrypt e cookies HttpOnly/SameSite.
+- **Desenvolvimento e compilação:** npm, Vite, Rollup e compilador TypeScript.
+- **Qualidade e ferramentas:** node:test, node:assert/strict, Git, GitHub e VS Code.
 
-[Conheça o ZEUS AGENT →](https://github.com/GBLSLVA/ZEUS-AGENT)
+Essas tecnologias estão aplicadas no projeto; sigo aprofundando minha experiência por meio da prática e da revisão do código.
 
-Meu próximo objetivo é transformar esse planejamento em uma aplicação full stack demonstrável.
+## Outro projeto — ZEUS AGENT
 
-### ZEUS Finance
+Estudo de caso de atendimento empresarial com IA para WhatsApp e Instagram, com planejamento de base de conhecimento, agendamento e transferência humana.
 
-Painel responsivo de monitoramento de gastos, dívidas e metas, criado para funcionar em celular e desktop.
+**Etapa atual:** arquitetura e planejamento; aplicação ainda não implementada.
 
-[Ver o repositório ZEUS Finance →](https://github.com/GBLSLVA/zeus-finance)
+[Conheça o estudo de caso →](https://github.com/GBLSLVA/ZEUS-AGENT)
 
-## Direção profissional
+## Oportunidades
 
-**Oportunidades:** desenvolvimento web em início de carreira e projetos freelance de páginas estáticas e ajustes de HTML/CSS.
+Aberto a conversar sobre vagas de início de carreira, interfaces web responsivas, páginas institucionais e projetos freelance de escopo definido.
 
-**Objetivo full stack:** ampliar o portfólio com aplicações que integrem frontend, backend e banco de dados.
-
-<!-- Adicionar aqui o LinkedIn ou e-mail profissional após definir o contato que será público. -->
+Você pode conhecer meu trabalho e acompanhar minha evolução pelos repositórios deste perfil.
