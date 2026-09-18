@@ -38,6 +38,12 @@ Proposta de atendimento empresarial com IA para WhatsApp e Instagram, com base d
 
 Meu próximo objetivo é transformar esse planejamento em uma aplicação full stack demonstrável.
 
+### ZEUS Finance
+
+Painel responsivo de monitoramento de gastos, dívidas e metas, criado para funcionar em celular e desktop.
+
+[Ver o repositório ZEUS Finance →](https://github.com/GBLSLVA/zeus-finance)
+
 ## Direção profissional
 
 **Oportunidades:** desenvolvimento web em início de carreira e projetos freelance de páginas estáticas e ajustes de HTML/CSS.
