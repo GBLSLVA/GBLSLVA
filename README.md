@@ -6,7 +6,7 @@
 
 Construindo minha trajetória com código, prática e projetos.
 
-[Conheça meus projetos](#projetos-em-destaque) · [Meu GitHub](https://github.com/GBLSLVA)
+[Meu GitHub](https://github.com/GBLSLVA)
 
 </div>
 
@@ -26,27 +26,9 @@ Meu objetivo é evoluir para aplicações completas, conectando interfaces, lóg
 | CSS | Estilização, tipografia, cores e composição visual |
 | GitHub | Organização e documentação de projetos |
 
-## Projetos em destaque
+## Portfólio
 
-### 01 · Rocket.sect
-
-Landing page conceitual sobre segurança da informação, com navegação, apresentação e rodapé. Prática de construção de interfaces em HTML e CSS.
-
-[Explorar o projeto →](https://github.com/GBLSLVA/Rocket.sect#readme)
-
-### 02 · Flutuar
-
-Página de apresentação de viagens, com ilustração, destaque de conteúdo e identidade visual. Exercício de HTML e CSS do curso Explorer.
-
-[Explorar o projeto →](https://github.com/GBLSLVA/exec-cio-extra-rocketseat-#readme)
-
-### 03 · Móveis customizados
-
-Página para uma marca fictícia de móveis, desenvolvida em um exercício de correção de HTML e CSS.
-
-[Explorar o projeto →](https://github.com/GBLSLVA/Corrigindo-bugs-01-#readme)
-
-> Os projetos acima são estudos de interface. Cada repositório documenta seu escopo e como executar localmente.
+Estou reorganizando meu portfólio para apresentar novos projetos e demonstrar minha evolução em desenvolvimento full stack.
 
 ## Direção profissional
 
