@@ -1,9 +1,9 @@
 <div align="center">
 
 # Gabriel Silva
-### Desenvolvimento Full Stack · Projetos que conectam interface, API e dados
+### Desenvolvedor de Software · Full Stack
 
-React · TypeScript · Node.js · SQLite
+React · TypeScript · Node.js · C# · ASP.NET · Python · SQL Server · SQLite
 
 [Conheça meu projeto principal](https://github.com/GBLSLVA/zeus-finance)
 
@@ -11,9 +11,9 @@ React · TypeScript · Node.js · SQLite
 
 ## Sobre mim
 
-Sou Gabriel Silva, desenvolvedor em formação com foco em aplicações full stack. Minha trajetória começou com HTML e CSS nos estudos do Explorer, da Rocketseat, e hoje meu portfólio inclui uma aplicação com interface React, API Node.js e banco SQLite.
+Sou Gabriel Silva dos Santos, Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP), com conclusão em 2025, colação de grau em janeiro de 2026 e diploma registrado em março de 2026.
 
-Busco oportunidades de início de carreira e projetos freelance compatíveis com minha experiência. Tenho interesse em interfaces responsivas, integração de APIs e organização do código com orientação a objetos.
+Estou construindo minha trajetória como desenvolvedor de software com foco em aplicações Full Stack. Tenho conhecimentos em C#, ASP.NET, JavaScript, React, Python, SQL Server, SQLite, APIs, Git e Clean Code. Busco minha primeira oportunidade como Desenvolvedor de Software Júnior e projetos freelance de escopo definido.
 
 ## Projeto principal — ZEUS Finance
 
@@ -29,19 +29,24 @@ Busco oportunidades de início de carreira e projetos freelance compatíveis com
 | Testes | Integração HTTP com SQLite temporário usando node:test |
 | Execução | Interface e API com `npm start` |
 
-**Estado atual:** MVP executável localmente. O repositório inclui instalação, decisões de arquitetura, testes e limitações. A hospedagem pública desta versão full stack é uma próxima etapa.
+**Estado atual:** MVP executável localmente, com código, testes, documentação e decisões de arquitetura disponíveis no repositório.
 
 [Explorar código e documentação do ZEUS Finance →](https://github.com/GBLSLVA/zeus-finance)
 
-## Tecnologias e ferramentas aplicadas
+## Formação e competências
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — UNIP.
+- Técnico em Logística — CEEP em Turismo do Leste Baiano.
+- Desenvolvimento web, APIs, bancos de dados, orientação a objetos e Clean Code.
+- Organização, comunicação, raciocínio lógico, adaptabilidade e proatividade.
+- Português nativo e inglês técnico.
+
+## Tecnologias e ferramentas
 
 - **Frontend:** React, React DOM, TypeScript, TSX, HTML5, CSS3, Grid, Flexbox e media queries.
-- **Backend:** Node.js 24, JavaScript, módulos ES, API HTTP e orientação a objetos.
-- **Dados e autenticação:** SQLite, SQL, node:sqlite, node:crypto, scrypt e cookies HttpOnly/SameSite.
-- **Desenvolvimento e compilação:** npm, Vite, Rollup e compilador TypeScript.
-- **Qualidade e ferramentas:** node:test, node:assert/strict, Git, GitHub e VS Code.
-
-Essas tecnologias estão aplicadas no projeto; sigo aprofundando minha experiência por meio da prática e da revisão do código.
+- **Backend:** Node.js, JavaScript, módulos ES, C#, ASP.NET e API HTTP.
+- **Dados:** SQLite, SQL Server, SQL, modelagem e consultas parametrizadas.
+- **Qualidade e fluxo:** Git, GitHub, VS Code, testes e documentação.
 
 ## Outro projeto — ZEUS AGENT
 
@@ -53,6 +58,4 @@ Estudo de caso de atendimento empresarial com IA para WhatsApp e Instagram, com 
 
 ## Oportunidades
 
-Aberto a conversar sobre vagas de início de carreira, interfaces web responsivas, páginas institucionais e projetos freelance de escopo definido.
-
-Você pode conhecer meu trabalho e acompanhar minha evolução pelos repositórios deste perfil.
+Aberto a conversar sobre vagas de início de carreira e projetos freelance de interfaces web, integrações de API e aplicações full stack de escopo definido.
