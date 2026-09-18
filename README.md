@@ -26,9 +26,17 @@ Meu objetivo é evoluir para aplicações completas, conectando interfaces, lóg
 | CSS | Estilização, tipografia, cores e composição visual |
 | GitHub | Organização e documentação de projetos |
 
-## Portfólio
+## Projeto em destaque
 
-Estou reorganizando meu portfólio para apresentar novos projetos e demonstrar minha evolução em desenvolvimento full stack.
+### ZEUS AGENT
+
+Proposta de atendimento empresarial com IA para WhatsApp e Instagram, com base de conhecimento, fluxos de agendamento e transferência humana.
+
+**Etapa atual:** estudo de caso e arquitetura proposta. O repositório documenta escopo, decisões técnicas, critérios de aceite e próximos passos; a aplicação ainda não foi implementada.
+
+[Conheça o ZEUS AGENT →](https://github.com/GBLSLVA/ZEUS-AGENT)
+
+Meu próximo objetivo é transformar esse planejamento em uma aplicação full stack demonstrável.
 
 ## Direção profissional
 
